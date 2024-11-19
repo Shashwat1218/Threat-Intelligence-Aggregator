@@ -1,2 +1,4 @@
-# Threat-Intelligence-Aggregator
-A collaborative project to aggregate and analyze cybersecurity threat data
+# Threat Intelligence Aggregator
+
+## Overview
+A tool to fetch, aggregate, and analyze cybersecurity threat data.
